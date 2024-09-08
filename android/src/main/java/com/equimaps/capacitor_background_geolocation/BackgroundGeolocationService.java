@@ -76,7 +76,7 @@ public class BackgroundGeolocationService extends Service {
                 final String id,
                 Notification backgroundNotification,
                 float distanceFilter,
-                int interval,
+                int interval
         ) {
             FusedLocationProviderClient client = LocationServices.getFusedLocationProviderClient(
                     BackgroundGeolocationService.this
