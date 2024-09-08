@@ -1,6 +1,6 @@
 {
     "name": "@nerdynaga/capacitor-background-geolocation",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Receive geolocation updates even while the app is in the background.",
     "repository": {
         "type": "git",
