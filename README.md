@@ -119,7 +119,7 @@ function guess_location(callback, timeout) {
 ### Typescript support
 
 ```typescript
-import {BackgroundGeolocationPlugin} from "@nerdynaga/background-geolocation";
+import {BackgroundGeolocationPlugin} from "@nerdynaga/capacitor-background-geolocation";
 const BackgroundGeolocation = registerPlugin<BackgroundGeolocationPlugin>("BackgroundGeolocation");
 ```
 
@@ -127,7 +127,7 @@ const BackgroundGeolocation = registerPlugin<BackgroundGeolocationPlugin>("Backg
 
 
 ```sh
-npm install @nerdynaga/background-geolocation
+npm install @nerdynaga/capacitor-background-geolocation
 npx cap update
 ```
 
