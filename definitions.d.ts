@@ -4,6 +4,7 @@ export interface WatcherOptions {
     requestPermissions?: boolean;
     stale?: boolean;
     distanceFilter?: number;
+    interval?: number;
 }
 
 export interface Location {
