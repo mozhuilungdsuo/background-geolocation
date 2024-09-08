@@ -1,10 +1,10 @@
 {
-    "name": "@capacitor-community/background-geolocation",
-    "version": "1.2.19",
+    "name": "@nerdynaga/background-geolocation",
+    "version": "1.0.0",
     "description": "Receive geolocation updates even while the app is in the background.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/capacitor-community/background-geolocation"
+        "url": "https://github.com/mozhuilungdsuo/background-geolocation"
     },
     "license": "MIT",
     "author": "James Diacono",
